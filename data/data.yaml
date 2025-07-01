@@ -1,0 +1,17 @@
+path: ../data/processed_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 9
+names:
+  - 'salad'           # 0
+  - 'soup'            # 1
+  - 'grilled_meat'    # 2
+  - 'flatbread_dish'  # 3
+  - 'appetizer_board' # 4
+  - 'teapot'          # 5
+  - 'glass'           # 6
+  - 'sauce_bowl'      # 7
+  - 'cutlery_holder'  # 8

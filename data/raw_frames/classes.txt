@@ -1,0 +1,10 @@
+salad
+soup
+grilled_meat
+flatbread_dish
+appetizer_board
+teapot
+glass
+sauce_bowl
+cutlery_holder
+pizza

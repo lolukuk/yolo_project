@@ -1,13 +1,14 @@
 [project]
-name = "yolo project"
+name = "yolo-project"
 version = "0.1.0"
-description = "Работа с моделью yolo11"
+description = ""
 authors = [
     {name = "lolukuk",email = "lolukuk@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
+    "opencv-python (>=4.11.0.86,<5.0.0.0)"
 ]
 
 
