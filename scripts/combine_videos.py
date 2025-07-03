@@ -3,7 +3,7 @@ from moviepy import VideoFileClip, concatenate_videoclips
 
 
 video_paths = [
-    '../results/output_video.mov',
+    '../results/output_video_1.mov',
     '../results/output_video_2_1.mov',
     '../results/output_video_3_1.mov',
     '../results/output_video_3_2.mov',

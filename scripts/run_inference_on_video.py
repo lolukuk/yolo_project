@@ -3,9 +3,9 @@ from ultralytics import YOLO
 
 MODEL_PATH = '../runs/detect/train/weights/best.pt'
 
-INPUT_VIDEO_PATH = '../data/raw_video/1.MOV'
+INPUT_VIDEO_PATH = '../data/raw_video/4_1.MOV'
 
-OUTPUT_VIDEO_PATH = '../results/output_video_1.mov'
+OUTPUT_VIDEO_PATH = '../results/output_video_4_1.mov'
 
 
 def main():
